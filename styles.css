@@ -1,0 +1,78 @@
+body{
+    margin:0;
+    padding:0;
+    font-family: 'Raleway', sans-serif;
+}
+
+.header{
+    height:90vh;
+    padding:60px;
+    color: white;
+    font-size: 30px;
+    background-image: url('images/HEader-bg.jpg');
+}
+
+.heading1{
+    text-transform: uppercase;
+    font-size: 56px;
+}
+.heading2{
+    text-transform: uppercase;
+    font-size: 56px;
+}
+.premium{
+    color:#7b6c63
+}
+.subheadline{
+    font-size: 24px;
+    text-transform: uppercase;
+}
+
+.card-subheadline{
+    color:#949494
+}
+
+.blog{
+   height:100vh;
+}
+
+.line{
+    height:5px;
+    width:72px;
+    background-color: #7b6c63;
+    margin:auto;
+    margin-top:30px
+}
+
+.contact{
+    height:100vh;
+    background-color: #f5f5f5;
+}
+
+input{
+    border-top: 3px solid #242424;
+    background-color:#f5f5f5;
+    width:24em;
+    
+}
+
+textarea{
+    border-top: 3px solid #242424;
+    background-color:#f5f5f5;
+    border-bottom:1px solid #242424;
+}
+
+.submit{
+    border:2px solid #242424;
+    padding:10px 60px
+}
+
+.footer{
+    background-color: #222222;
+    height:50vh
+}
+
+footer{
+    background-color: #1c1c1c;
+    height:10vh
+}
